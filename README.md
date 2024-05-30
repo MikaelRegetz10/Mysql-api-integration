@@ -95,8 +95,9 @@ The API will be accessible at `http://127.0.0.1:5000`.
 
 ## Dependencies
 - Flask
-- models.queries module
+- .env
 
+Create a .env file and follow the template in the `.env.exemple` file
 Ensure all dependencies are listed in the `requirements.txt` file.
 
 ## Configuration
